@@ -1,0 +1,3 @@
+/Users/berenarkannn/Desktop/reversed/cmake-build-debug/CMakeFiles/reversed.dir
+/Users/berenarkannn/Desktop/reversed/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/berenarkannn/Desktop/reversed/cmake-build-debug/CMakeFiles/rebuild_cache.dir
