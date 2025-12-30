@@ -33,7 +33,7 @@ int main() {
     while (true) {
         cout<<"Please Enter Your Password: ";
         getline(cin,pass);
-        bool istrue=false;
+       
 
         if (checkpassword(pass)) {
 cout<<"You succesfully created your password"<<endl;
